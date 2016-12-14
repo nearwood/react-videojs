@@ -17,8 +17,8 @@
     "url": "git+https://github.com/esportsguy/react-videojs.git"
   },
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "15.4.1",
+    "react-dom": "15.4.1"
   },
   "keywords": [
     "react-component",
@@ -38,12 +38,13 @@
     "object-assign": "^4.0.1"
   },
   "devDependencies": {
-    "babel-core": "^6.2.1",
-    "babel-loader": "^6.2.0",
-    "babel-preset-es2015": "^6.1.18",
-    "babel-preset-react": "^6.1.18",
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
     "github-pages-deploy": "0.0.3",
-    "json-loader": "^0.5.3",
-    "webpack": "^1.12.8"
+    "json-loader": "^0.5.4",
+    "webpack": "^1.13.2"
   }
 }
